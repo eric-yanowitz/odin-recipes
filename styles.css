@@ -1,0 +1,20 @@
+ul.homelist{
+    margin-top: -10px;
+}
+
+ul, ol{
+    margin-top: -5px;
+}
+
+.homelist li{
+    font-size: 18px;
+    padding-top: 10px;
+}
+
+li{
+    padding-top: 5px;
+}
+
+img{
+    border: 5px solid blue;
+}
